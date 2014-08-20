@@ -1,0 +1,69 @@
+
+body {
+
+    background-image: url('images/congruent_outline.png');
+  font-family: Helvetica, Arial, Sans-Serif;
+
+}
+
+h3.name {
+
+    text-align: center;
+    font-weight: 100;
+    padding-top: 1em;
+
+}
+
+section {
+
+    display: inline-block;
+
+    width: 33%;
+
+    line-height: 2em;
+
+}
+
+section.contact {
+
+    width: 100%;
+
+}
+
+section.contact ul {
+
+    list-style: none;
+
+    text-align: center;
+
+}
+
+section > ul > li {
+
+    list-style: none;
+
+}
+
+section.contact > ul > li {
+
+    display: inline;
+
+}
+
+div.container {
+
+    width: 60em;
+
+    text-align: center;
+
+    background-color: silver;
+
+    margin: 0 auto;
+
+    border-radius: 10px 10px 10px 10px;
+
+}
+
+div.head{
+	padding-bottom: 2em;
+}
